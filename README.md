@@ -32,6 +32,7 @@ The following files are included in this project:
 | 12-binary\_tree\_leaves.c | Write a function that counts the leaves in a binary tree |
 | 13-binary\_tree\_nodes.c | Write a function that counts the nodes with at least 1 child in a binary tree |
 | 14-binary\_tree\_balance.c | Write a function that measures the balance factor of a binary tree |
+| 15-binary\_tree\_is\_full.c | Write a function that checks if a binary tree is fulL|
 | | |
 
 
@@ -68,4 +69,4 @@ There is 19 tasks in total, all betty compliant:
 
 15. [14-binary\_tree\_balance.c](./14-binary_tree_balance.c): Function calculates balance factor of binary tree node. Subtracting height of right from left subtree.
 
-16. []():
+16. [15-binary\_tree\_is\_full.c](./15-binary_tree_is_full.c):
