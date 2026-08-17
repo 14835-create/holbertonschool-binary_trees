@@ -30,7 +30,7 @@ The following files are included in this project:
 | 10-binary\_tree\_depth.c | Write a function that measures the depth of a node in a binary tree |
 | 11-binary\_tree\_size.c | Write a function that measure the size of a binary tree |
 | 12-binary\_tree\_leaves.c | Write a function that counts the leaves in a binary tree |
-| | |
+| 13-binary\_tree\_nodes.c | Write a function that counts the nodes with at least 1 child in a binary tree |
 
 
 ## Tasks  🧩
@@ -62,4 +62,4 @@ There is 19 tasks in total, all betty compliant:
 
 13. [12-binary\_tree\_leaves.c](./12-binary_tree_leaves.c): Function counts number of leaf nodes in binary tree. Returns 0 tree is NULL, return 1 if node is lead otherwise returns sum of leaf counts from left to right tree.
 
-14. []():
+14. [13-binary\_tree\_nodes.c](./13-binary_tree_nodes.c): Function counts number of nodes in binary tree with at least 1 child. Return 0 if tree NULL, returns 1 for each node that has one child.
