@@ -25,7 +25,8 @@ The following files are included in this project:
 | 5-binary\_tree\_is\_root.c | Write a function that checks if a given node is a root |
 | 6-binary\_tree\_preorder.c | Write a function that goes through a binary tree using pre-order traversal |
 | 7-binary\_tree\_inorder.c | Write a function that goes through a binary tree using in-order traversal |
-|  |  |
+| 8-binary\_tree\_postorder.c | Write a function that goes through a binary tree using post-order traversal |
+| | |
 
 
 ## Tasks  🧩
@@ -47,4 +48,6 @@ There is 19 tasks in total, all betty compliant:
 
 8. [7-binary\_tree\_inorder.c](./7-binary_tree_inorder.c): Function traverses binary tree in order traveral. Visits left tree first then current node, then right tree.
 
-9. [](): 
+9. [8-binary\_tree\_postorder.c](./8-binary_tree_postorder.c): Function traverses binary tree wiyh post order traversal. Visits left, right then current node.
+
+10. [](): 
