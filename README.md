@@ -26,7 +26,8 @@ The following files are included in this project:
 | 6-binary\_tree\_preorder.c | Write a function that goes through a binary tree using pre-order traversal |
 | 7-binary\_tree\_inorder.c | Write a function that goes through a binary tree using in-order traversal |
 | 8-binary\_tree\_postorder.c | Write a function that goes through a binary tree using post-order traversal |
-| | |
+| 9-binary\_tree\_height.c | Write a function that measures the height of a binary tree |
+| |  |
 
 
 ## Tasks  🧩
@@ -50,4 +51,6 @@ There is 19 tasks in total, all betty compliant:
 
 9. [8-binary\_tree\_postorder.c](./8-binary_tree_postorder.c): Function traverses binary tree wiyh post order traversal. Visits left, right then current node.
 
-10. [](): 
+10. [9-binary\_tree\_height.c](./9-binary_tree_height.c): Function measures height of binary tree. Height is num of edges on longest down path from node to leaf. Returns 0 if tree NULL, otherwise returns height of subtree.
+
+11. [](): 
