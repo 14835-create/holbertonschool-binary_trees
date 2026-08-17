@@ -28,7 +28,7 @@ The following files are included in this project:
 | 8-binary\_tree\_postorder.c | Write a function that goes through a binary tree using post-order traversal |
 | 9-binary\_tree\_height.c | Write a function that measures the height of a binary tree |
 | 10-binary\_tree\_depth.c | Write a function that measures the depth of a node in a binary tree |
-| | |
+| 11-binary\_tree\_size.c | Write a function that measure the size of a binary tree |
 
 
 ## Tasks  🧩
@@ -54,4 +54,8 @@ There is 19 tasks in total, all betty compliant:
 
 10. [9-binary\_tree\_height.c](./9-binary_tree_height.c): Function measures height of binary tree. Height is num of edges on longest down path from node to leaf. Returns 0 if tree NULL, otherwise returns height of subtree.
 
-11. [10-binary\_tree\_depth.c](./10-binary_tree_depth.c): Function measure the depth of binary tree node. Depth number od edges from node to root. 
+11. [10-binary\_tree\_depth.c](./10-binary_tree_depth.c): Function measure the depth of binary tree node. Depth number od edges from node to root.
+
+12. [11-binary\_tree\_size.c](./11-binary_tree_size.c): Function measures size of binary tree, total numnber of nodes in tree.
+
+13. []():
