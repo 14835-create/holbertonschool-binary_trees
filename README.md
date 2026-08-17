@@ -20,7 +20,7 @@ The following files are included in this project:
 | 0-binary\_tree\_node.c | Write a function that creates a binary tree node |
 | 1-binary\_tree\_insert\_left.c | Write a function that inserts a node as the left-child of another node |
 | 2-binary\_tree\_insert\_right.c | Write a function that inserts a node as the right-child of another node |
-|      |             |
+| 3-binary\_tree\_delete.c | Write a function that deletes an entire binary tree |
 |      |             |
 
 ## Tasks  🧩
@@ -32,4 +32,6 @@ There is 19 tasks in total, all betty compliant:
 
 3. [2-binary\_tree\_insert\_right.c](./2-binary_tree_insert_right.c): Function creates new right child. If parent right child already present, old child becomes right child of new node.
 
-4. []():
+4. [3-binary\_tree\_delete.c](./3-binary_tree_delete.c): Function deletes entire tree by freeing every node. Traversal so children are deleted before parent.
+
+5. [](): 
