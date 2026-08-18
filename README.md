@@ -35,6 +35,7 @@ The following files are included in this project:
 | 15-binary\_tree\_is\_full.c | Write a function that checks if a binary tree is fulL|
 | 16-binary\_tree\_is\_perfect.c | Write a function that checks if a binary tree is perfect |
 | 17-binary\_tree\_sibling.c | Write a function that finds the sibling node |
+| 18-binary\_tree\_uncle.c | Write a function that finds the uncle node |
 
 ## Tasks  🧩
 There is 19 tasks in total, all betty compliant:
@@ -75,4 +76,4 @@ There is 19 tasks in total, all betty compliant:
 
 17. [17-binary\_tree\_sibling.c](./17-binary_tree_sibling.c): Function returns sibling of a node in binary tre. is node is NULL, no parent or parent only with 1 child, functionr eturns NULL. Otherwise returns the other child.
 
-18. []():
+18. [18-binary\_tree\_uncle.c](./18-binary_tree_uncle.c): Function returns uncle node in a binary tree. If node NULL, no parent, or parent no parent function returns NULL. Otherwise checkes if parent left or right child of grandparent and returns opposite child as uncle.
