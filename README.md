@@ -33,7 +33,7 @@ The following files are included in this project:
 | 13-binary\_tree\_nodes.c | Write a function that counts the nodes with at least 1 child in a binary tree |
 | 14-binary\_tree\_balance.c | Write a function that measures the balance factor of a binary tree |
 | 15-binary\_tree\_is\_full.c | Write a function that checks if a binary tree is fulL|
-| | |
+| 16-binary\_tree\_is\_perfect.c | Write a function that checks if a binary tree is perfect |
 
 
 ## Tasks  🧩
@@ -69,4 +69,8 @@ There is 19 tasks in total, all betty compliant:
 
 15. [14-binary\_tree\_balance.c](./14-binary_tree_balance.c): Function calculates balance factor of binary tree node. Subtracting height of right from left subtree.
 
-16. [15-binary\_tree\_is\_full.c](./15-binary_tree_is_full.c):
+16. [15-binary\_tree\_is\_full.c](./15-binary_tree_is_full.c): Function checks if binary tree is full. Function returns 1 if tree is full otherwise 0.
+
+16. [16-binary\_tree\_is\_perfect.c](./15-binary_tree_is_perfect.c): Function checks wether binary tree is perfect. Verifies that root exists and checks if each node has either zero or two children. Compares height of left and right subtree. Returns 1 if both heights match (both subtrees) otherwise 0.
+
+17. []():
