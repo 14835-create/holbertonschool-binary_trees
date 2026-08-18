@@ -34,7 +34,7 @@ The following files are included in this project:
 | 14-binary\_tree\_balance.c | Write a function that measures the balance factor of a binary tree |
 | 15-binary\_tree\_is\_full.c | Write a function that checks if a binary tree is fulL|
 | 16-binary\_tree\_is\_perfect.c | Write a function that checks if a binary tree is perfect |
-
+| 17-binary\_tree\_sibling.c | Write a function that finds the sibling node |
 
 ## Tasks  🧩
 There is 19 tasks in total, all betty compliant:
@@ -73,4 +73,6 @@ There is 19 tasks in total, all betty compliant:
 
 16. [16-binary\_tree\_is\_perfect.c](./15-binary_tree_is_perfect.c): Function checks wether binary tree is perfect. Verifies that root exists and checks if each node has either zero or two children. Compares height of left and right subtree. Returns 1 if both heights match (both subtrees) otherwise 0.
 
-17. []():
+17. [17-binary\_tree\_sibling.c](./17-binary_tree_sibling.c): Function returns sibling of a node in binary tre. is node is NULL, no parent or parent only with 1 child, functionr eturns NULL. Otherwise returns the other child.
+
+18. []():
